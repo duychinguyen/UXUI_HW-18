@@ -1,0 +1,27 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f3f3f3;
+}
+
+#navBar {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 5%;
+}
+
+#navBar h1 {
+    width: 50%;
+    font-weight: 700;
+}
+
+#navigation {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#bio img {
+    width: 456px;
+    height: 456px;
+}
